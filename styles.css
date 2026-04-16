@@ -1,0 +1,43 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: bold;
+    color:white;
+}
+
+body {
+    background-color: lightcoral;
+    border: 2px palevioletred ;
+    border-radius: 10px;
+}
+
+p{
+    color: lightblue;
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 
+#p2{
+    font-size: 35px;
+    color: rgb(12, 106, 152);
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    background-color: paleturquoise;
+    border: 5px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+
+li{
+    display: inline;
+    padding-right: 215px;
+    color: aliceblue;
+}
