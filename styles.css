@@ -8,13 +8,13 @@ h1 {
 }
 
 body {
-    background-color: lightcoral;
+    background-color: rgb(255, 226, 226);
     border: 2px palevioletred ;
     border-radius: 10px;
 }
 
 p{
-    color: lightblue;
+    color: rgb(250, 131, 190);
     text-align: center;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -22,7 +22,7 @@ p{
  
 #p2{
     font-size: 35px;
-    color: rgb(12, 106, 152);
+    color: rgb(255, 128, 200);
     font-weight: bolder;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -30,7 +30,7 @@ p{
 
 ul{
     list-style-type: none;
-    background-color: paleturquoise;
+    background-color: rgb(255, 143, 162) (175, 238, 238);
     border: 5px;
     border-style: solid;
     border-color: aquamarine;
